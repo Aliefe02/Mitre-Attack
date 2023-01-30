@@ -1,6 +1,8 @@
 # Mitre-Attack
 ASP.NET MVC Web Application to download and run 2 Mitre Attack Tests
 
+Project is coded using C#
+
 TESTS
 
   T1120 -> Collects information about attached peripheral devices and components connected to the machine
