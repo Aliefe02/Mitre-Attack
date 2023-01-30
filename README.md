@@ -8,12 +8,19 @@ TESTS
   T1518 -> Gather a list of software that are installed on the machine
   
  Brief info about features:
+ 
     -Register user
+    
     -Login
+    
     -Logout
+    
     -Download and run a test
+    
     -See result online
+    
     -Download test results in a txt file
+    
     
 Screenshots of project
    
