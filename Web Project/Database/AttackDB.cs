@@ -10,7 +10,7 @@ namespace Web_Project.Database
     public class AttackDB
     {
         static string userName = Environment.UserName;
-        string connectionString = "Data Source=LAPTOP-R0JTKVLM\\SQLEXPRESS;Initial Catalog=MITREATTACK;Integrated Security=True ";
+        string connectionString = "Data Source=**Sql Connection Here**;Initial Catalog=MITREATTACK;Integrated Security=True ";
         public Attack getAttack(string attackName)
         {
             Attack attack = new Attack();
