@@ -10,7 +10,7 @@ namespace Web_Project.Database
     public class AccountDB
     {
 
-        string connectionString = "Data Source=LAPTOP-R0JTKVLM\\SQLEXPRESS;Initial Catalog=MITREATTACK;Integrated Security=True ";
+        string connectionString = "Data Source=**SQL Connection Here**;Initial Catalog=MITREATTACK;Integrated Security=True ";
         internal Account FindByUser(Account account)
         {
             
