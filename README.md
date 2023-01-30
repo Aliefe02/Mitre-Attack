@@ -1,7 +1,7 @@
 # Mitre-Attack
 ASP.NET MVC Web Application to download and run 2 Mitre Attack Tests
 
-TESTS
+TESTS:
   T1120 -> Collects information about attached peripheral devices and components connected to the machine
   T1518 -> Gather a list of software that are installed on the machine
   
